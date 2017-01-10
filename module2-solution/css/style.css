@@ -43,7 +43,7 @@ p#p3 {
 }
 
 section {
- /* clear: right;*/
+  clear: right;
   padding: 10px;
 }
 
